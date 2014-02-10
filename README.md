@@ -1,14 +1,15 @@
 # conj-web
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure web framework demo ... well, it's incomplete.
 
 ## Usage
 
-FIXME
+lein deps
+lein run
+lein uberjar
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Ian Juma
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the Eclipse Public License either version 1.0 or any later version.
